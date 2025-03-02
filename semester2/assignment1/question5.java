@@ -19,7 +19,7 @@ public class question5 {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
 
-        System.out.println("sum of the digits " + n + " until the number is a single digit is " + sum_of_digits(n));
+        System.out.println("sum of the digits " + n + " until the number is a single digit is: " + sum_of_digits(n));
     }
 }
 

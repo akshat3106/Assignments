@@ -16,7 +16,7 @@ public class question1 {
                 number /= 2;
                 count++;
             }
-            System.out.println("Number of divisions: " + (count-1));
+            System.out.println("Number of divisions : " + (count-1));
         }
         scanner.close();
     }
