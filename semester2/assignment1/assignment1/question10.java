@@ -17,7 +17,7 @@ public class question10 {
         double[][] n=new double[3][4];
         for (int i=0;i<3;i++){
             for(int j=0;j<4;j++){
-                n[i][j]=sc.nextDouble();
+                n[i][j]=sc.nextDouble();2
             }
         }
         System.out.println("the 2d array is like following");
