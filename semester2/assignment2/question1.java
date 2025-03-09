@@ -2,7 +2,7 @@ package assignment2;
 
 import java.util.Scanner;
 
-public class Car {
+class Car {
     String model;
     int year;
     void setDetails(String model,int year){
