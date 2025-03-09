@@ -20,3 +20,4 @@ public class question3 {
         }
     }
 }
+// done in manjaro

@@ -18,7 +18,7 @@ public class question1 {
             }
             System.out.println("Number of divisions : " + (count-1));
         }
-        scanner.close();
+//hello from manjaro
     }
 }
 
